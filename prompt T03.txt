@@ -1,0 +1,3 @@
+bagaimana struktur program bahasa c yang cocok jika saya ingin membuat program utnuk sistem Loundry di sebuah ASRAMA. dimana loundry datang setiap hari selasa,dan loundry selesai dan dikembalikan di hari rabu. yang ingin saya buat sistem laundry asrama dengan ketentuan: 1.Laundry diterima hari Selasa 2.Laundry selesai hari Rabu 3.Biaya dihitung berdasarkan berat (misal Rp 7000/kg) Program harus dapat: 1.Menyimpan maksimal 100 data laundry 2.Menghitung total biaya 3.Menampilkan laporan total pemasukan
+
+tolong pandu saya buat program kdoe yg barusan menjadi lebih sederhana.

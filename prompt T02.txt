@@ -1,0 +1,7 @@
+terdapat intruksi untuk membuat total nilai unntuk hanya kelompo yang diminta .dimana pada soal terdapat data nilai siswa yang disimpan dalam sebuah rak fisik yang tersusun rapat dan membentuk sebuah pola . nah pada program nanti harus terdapat input user yang meminta Jumlah total data (N),Deret nilai (n1, n2, …, n). ,Kode kelompok siswa. .pada soal di instruksikan untuk membuat program yang mampu menentukan total nilai hanya untuk kelompok yang diminta. boleh pandu saya untuk membuat struktur programnya tersebut ?
+pada gambar ada diberi deretnya kan 75,65,80,70.bagaimana mengimplementasikan ke kodenya
+bagaiman bentuk sederhana kode ini biar bisa saya pahami?
+kenapa return 0 nya ada 2 kali
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa . kenapa ini tidak muncul saat run di terminal
+boleh ejlaskan makna struktur kod barusan
